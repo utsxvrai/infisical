@@ -94,7 +94,6 @@ export type TFeatureSet = {
   gateway: false;
   gatewayPool: false;
   pamSlackNotifications: boolean;
-  sshHostGroups: false;
   secretScanning: false;
   enterpriseSecretSyncs: false;
   enterpriseCertificateSyncs: false;
